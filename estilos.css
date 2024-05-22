@@ -32,7 +32,7 @@ body {
 }
 
 .logo__item {
-    background-image: url(../img/cabecera/Logo.png);
+    background-image: url(Logo.png);
     background-repeat: no-repeat;
     padding: 15px 65px;
     cursor: pointer;
@@ -48,7 +48,7 @@ body {
 }
 
 .buscar__label {
-    background-image: url(../img/cabecera/search.png);
+    background-image: url(search.png);
     background-repeat: no-repeat;
     background-position: center;
     border: 1px solid rgb(211, 211, 211);
@@ -59,34 +59,34 @@ body {
 }
 
 .cabecera__audio {
-    background-image: url(../img/cabecera/mic.png);
+    background-image: url(mic.png);
     padding: 20px;
     display: none;
 }
 
 .cabecera__videos {
-    background-image: url(../img/cabecera/video_call.png);
+    background-image: url(video_call.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
 }
 
 .cabecera__apps {
-    background-image: url(../img/cabecera/apps.png);
+    background-image: url(apps.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecera__notificaciones {
-    background-image: url(../img/cabecera/notifications.png);
+    background-image: url(notifications.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecera__avatar {
-    background-image: url(../img/cabecera/Avatar.png);
+    background-image: url(Avatar.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
@@ -105,79 +105,79 @@ body {
 }
 
 .icono__inicio::before {
-    content: url(../img/menu/home.png);
+    content: url(home.png);
 }
 
 .icono__explorar::before {
-    content: url(../img/menu/explore.png);
+    content: url(explore.png);
 }
 
 .icono__shorts::before {
-    content: url(../img/menu/shorts.png);
+    content: url(shorts.png);
 }
 
 .icono__suscripciones::before {
-    content: url(../img/menu/subscriptions.png);
+    content: url(subscriptions.png);
 }
 
 .icono__biblioteca::before {
-    content: url(../img/menu/video_library.png);
+    content: url(video_library.png);
 }
 
 .icono__historico::before {
-    content: url(../img/menu/history.png);
+    content: url(history.png);
 }
 
 .icono__reloj::before {
-    content: url(../img/menu/history_toggle_off.png);
+    content: url(history_toggle_off.png);
 }
 
 .icono__like::before {
-    content: url(../img/menu/thumb_up_alt.png);
+    content: url(thumb_up_alt.png);
 }
 
 .icono__alura::before {
-    content: url(../img/menu/Avatar_Alura.png);
+    content: url(Avatar_Alura.png);
 }
 
 .icono__gaveta::before {
-    content: url(../img/menu/Avatar_Gaveta.png);
+    content: url(Avatar_Gaveta.png);
 }
 
 .icono__ballerini::before {
-    content: url(../img/menu/Avatar_Rafa.png);
+    content: url(Avatar_Rafa.png);
 }
 
 .icono__iamarino::before {
-    content: url(../img/menu/Avatar_Atila.png);
+    content: url(Avatar_Atila.png);
 }
 
 .icono__souto::before {
-    content: url(../img/menu/Avatar_Souto.png);
+    content: url(Avatar_Souto.png);
 }
 
 .icono__nerd::before {
-    content: url(../img/menu/Avatar_Jovem_Nerd.png);
+    content: url(Avatar_Jovem_Nerd.png);
 }
 
 .icono__deschamps::before {
-    content: url(../img/menu/Avatar_Deschamps.png);
+    content: url(Avatar_Deschamps.png);
 }
 
 .icono__mostrar::before {
-    content: url(../img/menu/keyboard_arrow_down.png);
+    content: url(keyboard_arrow_down.png);
 }
 
 .icono__videos::before {
-    content: url(../img/menu/videos.png);
+    content: url(videos.png);
 }
 
 .icono__peliculas::before {
-    content: url(../img/menu/peliculas.png);
+    content: url(peliculas.png);
 }
 
 .icono__videojuegos::before {
-    content: url(../img/menu/videojuegos.png);
+    content: url(videojuegos.png);
 }
 
 /* SECCIÓN SUPERIOR */
