@@ -80,6 +80,7 @@
 .videos__item {
     height : 250px;
     width :305px;
+    padding-bottom: 4px;
    
 }
 
