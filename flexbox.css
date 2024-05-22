@@ -87,8 +87,8 @@
     display: flex;
     flex-wrap:wrap;
     flex-grow: 1;
-    padding: 2%;
-    gap: 30px;
+    
+    gap: 15px;
 }
 
 
